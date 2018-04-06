@@ -3,8 +3,8 @@
 #### Start
 
 ```
-mix do deps.get, compile
-eix -S mix
+mix  do deps.get, compile
+iex -S mix
 ```
 
 #### Endpoints
